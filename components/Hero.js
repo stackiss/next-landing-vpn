@@ -39,7 +39,7 @@ const Hero = ({
               <h1 className="text-3xl lg:text-4xl xl:text-5xl font-medium text-black-600 leading-normal">
                 MLBB FAN TOKEN
               </h1>
-               <strong>From And For FAN </strong>
+               <strong>From And For FAN Push For WIN</strong>
               <p className="text-black-500 mt-4 mb-6">
                 Provide a network for all your needs with ease and fun using
                 LaslesVPN discover interesting features from us.
