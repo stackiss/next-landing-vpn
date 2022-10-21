@@ -9,7 +9,7 @@ assets:
   uploadDir: images
   publicPath: /
 
-dataDir: components
+dataDir: components/
 pagesDir: pages
 
 pageLayoutKey: type
