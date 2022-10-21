@@ -41,8 +41,7 @@ const Hero = ({
               </h1>
                <strong>From And For FAN Push For WIN</strong>
               <p className="text-black-500 mt-4 mb-6">
-                Provide a network for all your needs with ease and fun using
-                LaslesVPN discover interesting features from us.
+                MLBB FAN TOKEN is a Community Token created for Fans of Mobile Legend Bang Bang on the Binance Smart Chain (BSC) network which is currently the most popular game in the Southeast Asia region.
               </p>
               <ButtonPrimary>Get Started</ButtonPrimary>
             </div>
